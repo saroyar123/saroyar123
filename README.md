@@ -13,8 +13,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-
- [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saroyar-hossain-shaikh-0b73861b/7/) 
+ 
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> </a>
