@@ -10,35 +10,46 @@ I'm a Software Engineer from India passionate about building scalable backend sy
 - 🤖 Building **MedHub**, an AI-powered healthcare platform using RAG and LLMs.
 - 🚀 Interested in system design, distributed systems, and scalable architectures.
 - 🤝 Open to collaborating on interesting software and AI projects.
-- 📫 Reach me at: **saroyarhossain2026\@gmail.com**
+- 📫 Reach me at: **saroyarhossain2026@gmail.com**
 
 ---
 
-### 🛠️ Languages and Technologies
+## 🛠️ Languages and Technologies
 
 **Programming Languages**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=java,js,ts,python,cpp](https://skillicons.dev/icons?i=java,js,ts,python,cpp)" />
-\</p>
+![Java](https://skillicons.dev/icons?i=java)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp)
 
 **Backend Development**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=spring,nodejs,express,nestjs](https://skillicons.dev/icons?i=spring,nodejs,express,nestjs)" />
-\</p>
+![Spring](https://skillicons.dev/icons?i=spring)
+![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
 
 **Frontend Development**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=react,html,css,vite](https://skillicons.dev/icons?i=react,html,css,vite)" />
-\</p>
+![React](https://skillicons.dev/icons?i=react)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![Vite](https://skillicons.dev/icons?i=vite)
 
-**Database and AI**
+**Database, AI and Tools**
 
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=postgres,mongodb,redis,docker](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker)" />
-\</p>
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![Redis](https://skillicons.dev/icons?i=redis)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Linux](https://skillicons.dev/icons?i=linux)
+
+**AI Technologies**
 
 - Spring AI
 - Retrieval-Augmented Generation (RAG)
@@ -47,24 +58,17 @@ I'm a Software Engineer from India passionate about building scalable backend sy
 - Ollama
 - LangChain / LangGraph
 
-**Tools and Platforms**
-
-\<p>
-&#x20; \<img src="[https://skillicons.dev/icons?i=git,github,postman,vscode,idea,linux](https://skillicons.dev/icons?i=git,github,postman,vscode,idea,linux)" />
-\</p>
-
 ---
 
-### 🚀 Featured Project
+## 🚀 Featured Project
 
-**MedHub – AI-Powered Healthcare Platform**
+### MedHub – AI-Powered Healthcare Platform
 
 An AI-powered healthcare platform that helps patients find relevant medical specialists based on their symptoms and medical history.
 
 **Tech Stack:** Java, Spring Boot, Spring AI, PostgreSQL, pgvector, Ollama, React.
 
-Key features:
-
+**Key Features**
 - RAG-based medical knowledge retrieval.
 - LLM-powered symptom analysis.
 - AI-based doctor specialty recommendations.
@@ -72,28 +76,20 @@ Key features:
 
 ---
 
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api?username=saroyar123&show_icons=true&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api?username=saroyar123\&show_icons=true\&theme=tokyonight\&hide_border=true)" height="165" />
-&#x20; \<img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=saroyar123&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=saroyar123\&layout=compact\&theme=tokyonight\&hide_border=true)" height="165" />
-\</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saroyar123&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
 
-\<p align="center">
-&#x20; \<img src="[https://github-readme-streak-stats.herokuapp.com/?user=saroyar123&theme=tokyonight&hide_border=true](https://github-readme-streak-stats.herokuapp.com/?user=saroyar123\&theme=tokyonight\&hide_border=true)" />
-\</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saroyar123&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=saroyar123&theme=tokyonight&hide_border=true)
 
 ---
 
-### 🤝 Let's Connect
+## 🤝 Let's Connect
 
-\<p>
-&#x20; \<a href="mailto\:saroyarhossain2001\@gmail.com">
-&#x20;   \<img src="[https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)" />
-&#x20; \</a>
-&#x20; \<a href="[https://github.com/saroyar123](https://github.com/saroyar123)">
-&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
-&#x20; \</a>
-\</p>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saroyarhossain2026@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saroyar123)
 
 ⭐ Thanks for visiting my profile!
